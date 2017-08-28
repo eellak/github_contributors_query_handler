@@ -9,7 +9,7 @@
  * @license     GPL-2.0+
  *
  * @wordpress-plugin
- * Plugin Name: github_contr query handler.
+ * Plugin Name: The filters query handler for the Github Contributor Registry.
  * Plugin URI:  
  * Description: .
  * Version:     1.0
